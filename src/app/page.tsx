@@ -1,5 +1,5 @@
 import React from 'react'
-import LandingPage from './Components/LandingPage'
+import LandingPage from './pages/LandingPage'
 import { client } from '@/sanity/lib/client';
 
 const page = async() => {
